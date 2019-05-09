@@ -2,7 +2,7 @@ image: Visual Studio 2017
 configuration: Release
 
 build:
-  project: svt-av1.sln
+  project: utvideo.sln
 
 artifacts:
     - path: bin\Release\*utvideo*.exe
